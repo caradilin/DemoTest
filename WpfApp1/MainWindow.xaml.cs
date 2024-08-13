@@ -1,4 +1,6 @@
-﻿using System.Text;
+﻿using SciChart.Charting3D.Model;
+using SciChart.Charting3D.PointMarkers;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
